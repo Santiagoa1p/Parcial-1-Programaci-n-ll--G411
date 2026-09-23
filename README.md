@@ -1,3 +1,8 @@
+# Nombre de los estudiantes
+Santiago Alonso Perafan
+Daniel Rubio Marmolejo
+
+
 # Sistema de gestion de biblioteca
 
 Proyecto Maven para el Parcial I de Programacion II. Requiere Java 17.
