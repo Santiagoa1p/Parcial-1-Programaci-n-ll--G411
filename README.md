@@ -2,7 +2,7 @@
 
 * Santiago Alonso Perafan
 * Daniel Rubio Marmolejo
-* Andrey Marmolejo
+* Andrey Ceballos
 
 
 # Sistema de gestion de biblioteca
