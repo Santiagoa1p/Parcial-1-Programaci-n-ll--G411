@@ -1,7 +1,7 @@
 # Nombre de los estudiantes
 
-*Santiago Alonso Perafan
-*Daniel Rubio Marmolejo
+* Santiago Alonso Perafan
+* Daniel Rubio Marmolejo
 
 
 # Sistema de gestion de biblioteca
